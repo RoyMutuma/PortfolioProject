@@ -1,4 +1,4 @@
--- SQL Murder Mystery
+-- SQL Murder Mystery from https://mystery.knightlab.com/#experienced
 
 -- Find murders committed in SQL CIty on 15th Jan 2018 using the Crime_Scene_Report table
 
